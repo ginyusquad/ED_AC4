@@ -2,9 +2,9 @@
 
  Projeto eclipse da Atividade continua 04 de Estrutura de dados
   * [Exercicio 1](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio01)
-    * [Exercicio 1 - A](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio01/a)
-    * [Exercicio 1 - B](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio01/b)
-    * [Exercicio 1 - C e D](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio01/c_d)
+    * [A](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio01/a)
+    * [B](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio01/b)
+    * [C e D](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio01/c_d)
   * [Exercicio 2](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio02)
   * [Exercicio 22](https://github.com/ginyusquad/ED_AC4/tree/main/src/exercicio22)
   

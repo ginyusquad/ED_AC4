@@ -10,7 +10,7 @@ import exercicio01.c_d.sources.HeapPriorityQueue;
 public class HeapPriorityQueueTest {
 
 	@Test
-	public void Ex_02() {
+	public void exercicio02() {
 		
 		HeapPriorityQueue<Integer, Character> heap;
 		heap = new HeapPriorityQueue<Integer, Character>();
@@ -19,24 +19,24 @@ public class HeapPriorityQueueTest {
 		heap.insert(4, 'B');
 		heap.insert(7, 'I');
 		heap.insert(1, 'D');
-		// Operação
+		// OperaÃ§Ã£o
 		assertEquals("(1,D)", heap.removeMin().toString());
 		
 		heap.insert(3, 'J');
 		heap.insert(6, 'L');
-		// Operação
+		// OperaÃ§Ã£o
 		assertEquals("(3,J)", heap.removeMin().toString());
-		// Operação
+		// OperaÃ§Ã£o
 		assertEquals("(4,B)", heap.removeMin().toString());
 		
 		heap.insert(8, 'G');
-		// Operação
+		// OperaÃ§Ã£o
 		assertEquals("(5,A)", heap.removeMin().toString());
 
 		heap.insert(2, 'H');
-		// Operação
+		// OperaÃ§Ã£o
 		assertEquals("(2,H)", heap.removeMin().toString());
-		// Operação
+		// OperaÃ§Ã£o
 		assertEquals("(6,L)", heap.removeMin().toString());
 
 		// Resultado Final!!!!
